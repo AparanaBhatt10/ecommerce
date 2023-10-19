@@ -9,7 +9,7 @@
 - **Netflix Zuul** - version 1.3.1 
 - **Netflix Eureka Client/Server** - version 2.1.1
 - **Netflix Ribbon** - version 2.3.0
-- **Caffeine client
+- **Caffeine client**
 - **Spring Data REDIS** - version 2.1.8 RELEASE
 - **Spring Data JPA** - version 2.1.8 RELEASE 
 - **Hibernate** - H2 database
