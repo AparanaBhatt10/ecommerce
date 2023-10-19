@@ -1,8 +1,8 @@
-package com.rainbowforest.userservice.controller;
+package com.ecomm.userservice.controller;
 
-import com.rainbowforest.userservice.entity.User;
-import com.rainbowforest.userservice.http.header.HeaderGenerator;
-import com.rainbowforest.userservice.service.UserService;
+import com.ecomm.userservice.service.UserService;
+import com.ecomm.userservice.entity.User;
+import com.ecomm.userservice.http.header.HeaderGenerator;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

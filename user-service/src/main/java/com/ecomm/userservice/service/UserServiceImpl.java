@@ -1,9 +1,9 @@
-package com.rainbowforest.userservice.service;
+package com.ecomm.userservice.service;
 
-import com.rainbowforest.userservice.entity.User;
-import com.rainbowforest.userservice.entity.UserRole;
-import com.rainbowforest.userservice.repository.UserRepository;
-import com.rainbowforest.userservice.repository.UserRoleRepository;
+import com.ecomm.userservice.entity.User;
+import com.ecomm.userservice.entity.UserRole;
+import com.ecomm.userservice.repository.UserRepository;
+import com.ecomm.userservice.repository.UserRoleRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

@@ -1,4 +1,4 @@
-package com.rainbowforest.userservice;
+package com.ecomm.userservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

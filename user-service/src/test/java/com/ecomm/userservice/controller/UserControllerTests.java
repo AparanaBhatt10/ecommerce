@@ -1,10 +1,10 @@
-package com.rainbowforest.userservice.controller;
+package com.ecomm.userservice.controller;
 
+import com.ecomm.userservice.service.UserService;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.ObjectWriter;
 import com.fasterxml.jackson.databind.SerializationFeature;
-import com.rainbowforest.userservice.entity.User;
-import com.rainbowforest.userservice.service.UserService;
+import com.ecomm.userservice.entity.User;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;

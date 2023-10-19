@@ -1,7 +1,7 @@
-package com.rainbowforest.userservice.service;
+package com.ecomm.userservice.service;
 
-import com.rainbowforest.userservice.entity.User;
-import com.rainbowforest.userservice.repository.UserRepository;
+import com.ecomm.userservice.repository.UserRepository;
+import com.ecomm.userservice.entity.User;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;

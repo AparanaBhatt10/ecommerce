@@ -1,4 +1,4 @@
-package com.rainbowforest.userservice;
+package com.ecomm.userservice;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

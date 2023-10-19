@@ -1,8 +1,8 @@
-package com.rainbowforest.userservice.service;
+package com.ecomm.userservice.service;
 
 import java.util.List;
 
-import com.rainbowforest.userservice.entity.User;
+import com.ecomm.userservice.entity.User;
 
 public interface UserService {
     List<User> getAllUsers();

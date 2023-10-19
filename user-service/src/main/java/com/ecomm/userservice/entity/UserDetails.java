@@ -1,4 +1,4 @@
-package com.rainbowforest.userservice.entity;
+package com.ecomm.userservice.entity;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import javax.persistence.*;

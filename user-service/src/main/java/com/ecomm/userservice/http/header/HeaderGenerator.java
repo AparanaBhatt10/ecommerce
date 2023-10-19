@@ -1,4 +1,4 @@
-package com.rainbowforest.userservice.http.header;
+package com.ecomm.userservice.http.header;
 
 import java.net.URI;
 import java.net.URISyntaxException;
