@@ -9,12 +9,11 @@
 - **Netflix Zuul** - version 1.3.1 
 - **Netflix Eureka Client/Server** - version 2.1.1
 - **Netflix Ribbon** - version 2.3.0
-- **Redis Client : JEDIS** - version 2.9.3
+- **Caffeine client**
 - **Spring Data REDIS** - version 2.1.8 RELEASE
 - **Spring Data JPA** - version 2.1.8 RELEASE 
-- **Hibernate** - version 5.0.4 Finale
-- **SQL Database engine** : Microsoft SQL 2016
-- **NOSQL Database engine** : Redis 3.2.100
+- **Hibernate** - H2 database
+
 - **Maven**
 
 ### Features
