@@ -9,6 +9,6 @@ import com.ecomm.orderservice.domain.User;
 @FeignClient(name = "User", url = "http://localhost:8811/")
 public interface UserClient {
 
-    @GetMapping(value = "/users/{id}")
+    @GetMapping(value = "/user-service/users/{id}")
     public User getUserById(@PathVariable("id") Long id);
 }
