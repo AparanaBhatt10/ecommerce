@@ -1,6 +1,6 @@
-package com.rainbowforest.apigateway.config;
+package com.ecom.apigateway.config;
 
-import com.rainbowforest.apigateway.filter.SessionFilter;
+import com.ecom.apigateway.filter.SessionFilter;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 

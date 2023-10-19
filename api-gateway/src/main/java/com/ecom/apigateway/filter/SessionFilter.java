@@ -1,4 +1,4 @@
-package com.rainbowforest.apigateway.filter;
+package com.ecom.apigateway.filter;
 
 import com.netflix.zuul.ZuulFilter;
 import com.netflix.zuul.context.RequestContext;
