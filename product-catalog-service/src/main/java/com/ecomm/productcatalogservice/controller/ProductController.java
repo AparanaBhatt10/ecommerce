@@ -1,8 +1,8 @@
-package com.rainbowforest.productcatalogservice.controller;
+package com.ecomm.productcatalogservice.controller;
 
-import com.rainbowforest.productcatalogservice.entity.Product;
-import com.rainbowforest.productcatalogservice.http.header.HeaderGenerator;
-import com.rainbowforest.productcatalogservice.service.ProductService;
+import com.ecomm.productcatalogservice.entity.Product;
+import com.ecomm.productcatalogservice.http.header.HeaderGenerator;
+import com.ecomm.productcatalogservice.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

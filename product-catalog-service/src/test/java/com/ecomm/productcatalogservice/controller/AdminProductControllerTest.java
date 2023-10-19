@@ -1,4 +1,4 @@
-package com.rainbowforest.productcatalogservice.controller;
+package com.ecomm.productcatalogservice.controller;
 
 import static org.mockito.ArgumentMatchers.any;
 import static org.mockito.Mockito.times;
@@ -21,8 +21,8 @@ import org.springframework.test.web.servlet.MockMvc;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.ObjectWriter;
 import com.fasterxml.jackson.databind.SerializationFeature;
-import com.rainbowforest.productcatalogservice.entity.Product;
-import com.rainbowforest.productcatalogservice.service.ProductService;
+import com.ecomm.productcatalogservice.entity.Product;
+import com.ecomm.productcatalogservice.service.ProductService;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest

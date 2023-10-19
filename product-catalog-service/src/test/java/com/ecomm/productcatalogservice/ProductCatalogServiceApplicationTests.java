@@ -1,4 +1,4 @@
-package com.rainbowforest.productcatalogservice;
+package com.ecomm.productcatalogservice;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

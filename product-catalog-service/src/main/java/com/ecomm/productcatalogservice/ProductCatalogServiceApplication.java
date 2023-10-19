@@ -1,4 +1,4 @@
-package com.rainbowforest.productcatalogservice;
+package com.ecomm.productcatalogservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.rainbowforest.productcatalogservice.http.header;
+package com.ecomm.productcatalogservice.http.header;
 
 import java.net.URI;
 import java.net.URISyntaxException;

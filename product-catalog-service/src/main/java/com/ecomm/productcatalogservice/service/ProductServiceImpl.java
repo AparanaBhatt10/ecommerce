@@ -1,7 +1,7 @@
-package com.rainbowforest.productcatalogservice.service;
+package com.ecomm.productcatalogservice.service;
 
-import com.rainbowforest.productcatalogservice.entity.Product;
-import com.rainbowforest.productcatalogservice.repository.ProductRepository;
+import com.ecomm.productcatalogservice.entity.Product;
+import com.ecomm.productcatalogservice.repository.ProductRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

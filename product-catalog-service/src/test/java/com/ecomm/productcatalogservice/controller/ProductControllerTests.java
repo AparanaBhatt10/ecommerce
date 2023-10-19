@@ -1,6 +1,6 @@
-package com.rainbowforest.productcatalogservice.controller;
-import com.rainbowforest.productcatalogservice.entity.Product;
-import com.rainbowforest.productcatalogservice.service.ProductService;
+package com.ecomm.productcatalogservice.controller;
+import com.ecomm.productcatalogservice.service.ProductService;
+import com.ecomm.productcatalogservice.entity.Product;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;

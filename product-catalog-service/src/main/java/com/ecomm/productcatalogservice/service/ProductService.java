@@ -1,8 +1,8 @@
-package com.rainbowforest.productcatalogservice.service;
+package com.ecomm.productcatalogservice.service;
 
 import java.util.List;
 
-import com.rainbowforest.productcatalogservice.entity.Product;
+import com.ecomm.productcatalogservice.entity.Product;
 
 public interface ProductService {
     public List<Product> getAllProduct();

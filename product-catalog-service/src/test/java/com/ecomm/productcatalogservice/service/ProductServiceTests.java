@@ -1,7 +1,7 @@
-package com.rainbowforest.productcatalogservice.service;
+package com.ecomm.productcatalogservice.service;
 
-import com.rainbowforest.productcatalogservice.entity.Product;
-import com.rainbowforest.productcatalogservice.repository.ProductRepository;
+import com.ecomm.productcatalogservice.entity.Product;
+import com.ecomm.productcatalogservice.repository.ProductRepository;
 import org.junit.Before;
 import org.junit.*;
 import org.junit.runner.RunWith;
@@ -13,7 +13,6 @@ import org.springframework.test.context.junit4.SpringRunner;
 import java.util.ArrayList;
 import java.util.List;
 
-import static org.hamcrest.Matchers.any;
 import static org.hamcrest.Matchers.is;
 import static org.junit.Assert.*;
 

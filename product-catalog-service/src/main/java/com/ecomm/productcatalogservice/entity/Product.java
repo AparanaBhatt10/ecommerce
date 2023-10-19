@@ -1,4 +1,4 @@
-package com.rainbowforest.productcatalogservice.entity;
+package com.ecomm.productcatalogservice.entity;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import javax.persistence.*;
